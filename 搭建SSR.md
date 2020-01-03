@@ -12,7 +12,7 @@
 
 putty挺好用的
 
-## 2.搭建ssr
+## 2.搭建SSR
 
 yum -y install wget
 
