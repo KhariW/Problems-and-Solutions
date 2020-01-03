@@ -20,9 +20,9 @@ wget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadow
 
  这里设置密码和端口，等待安装成功注意保存信息！！！！
 
-## 3.加速(bbr)
+## 3.加速(BBR)
 
-先升级内核，然后开启bbr算法，此处与ss搭建中bbr加速一样的
+先升级内核，然后开启BBR算法，此处与SS搭建中BBR加速一样的
 
 ## 4.加速(锐速)
 
