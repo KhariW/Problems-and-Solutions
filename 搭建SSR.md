@@ -28,11 +28,11 @@ wget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadow
 
 锐速加速
 
-wget --no-check-certificate -O rskernel.sh https://raw.githubusercontent.com/hombo125/doubi/master/rskernel.sh && bash rskernel.sh
+wget --no-check-certificate -O rskernel.sh https://raw.githubusercontent.com/uxh/awesome-linux-tools/master/rskernel_2.sh && bash rskernel.sh
 
 这里会自动重启,然后执行下面
 
-yum install net-tools -y && wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && bash appex.sh install
+yum install net-tools -y && wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/uxh/serverSpeeder_Install/master/appex.sh && bash appex.sh install
 
 一路回车
 
